@@ -2,7 +2,6 @@
 
 A full-stack web application for real-time air quality monitoring and AI-powered forecasting. Built with Next.js, React, MongoDB, and machine learning algorithms.
 
-![AirWatch Dashboard](https://via.placeholder.com/800x400?text=AirWatch+Dashboard)
 
 ## Features
 
